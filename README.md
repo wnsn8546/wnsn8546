@@ -1,12 +1,15 @@
 
 <div align=center>
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsn8546&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ![wnsn8546's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsn8546&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsn8546&theme=radical&layout=compact&langs_count=10) 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwnsn)](https://solved.ac/{(chlwnsn)})
-
 </div>
 <br>
 <div align=center><h1>:hamburger:</h1></div>
